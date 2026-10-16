@@ -1,0 +1,26 @@
+name: Engineering investigation
+description: Record an uncertainty, sources, alternatives and findings
+title: "[Research] "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question or uncertainty
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: Investigation approach
+      description: What evidence would inform a decision?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and constraints
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Expected deliverable
+      description: What will you report to the team?
