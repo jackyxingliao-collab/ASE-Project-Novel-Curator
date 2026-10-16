@@ -1,0 +1,26 @@
+name: Development task
+description: A bounded task with a testable result
+title: "[Task] "
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Expected outcome
+      description: What should work when this task is complete?
+    validations:
+      required: true
+  - type: textarea
+    id: criteria
+    attributes:
+      label: Acceptance criteria
+      placeholder: "- [ ] Specific observable condition"
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies and risks
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or testing method
