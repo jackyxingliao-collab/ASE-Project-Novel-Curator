@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sample-001",
+    "title": "Example Novel A",
+    "author": "Example Author",
+    "synopsis": "Fictional catalogue record for interface tests.",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Adventure"
+    ],
+    "status": "Unknown",
+    "coverUrl": null,
+    "sourceUrl": null
+  },
+  {
+    "id": "sample-002",
+    "title": "Example Novel B",
+    "author": "Example Author",
+    "synopsis": "A second fictional record for verifying Skip and Shortlist.",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "tags": [
+      "Exploration"
+    ],
+    "status": "Unknown",
+    "coverUrl": null,
+    "sourceUrl": null
+  }
+]
