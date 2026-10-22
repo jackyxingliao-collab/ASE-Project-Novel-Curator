@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Novel Curator — Discover Your Next Read</title>
+  <meta name="description" content="Swipe through curated novel recommendations. Shortlist what interests you, skip the rest. A fresh way to discover books." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+  <!-- ===== APP CONTAINER ===== -->
+  <div id="app">
+
+    <!-- ===== HEADER ===== -->
+    <header id="app-header">
+      <div class="header-left">
+        <div class="logo" id="logo-home">
+          <span class="logo-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        </span>
+          <span class="logo-text">Novel<span class="logo-accent">Curator</span></span>
+        </div>
+      </div>
+      <nav class="header-right">
+        <button class="nav-btn" id="btn-shortlist-view" title="View Shortlist">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+          <span class="badge" id="shortlist-badge">0</span>
+        </button>
+      </nav>
+    </header>
+
+    <!-- ===== SCREEN: GENRE SELECTION (Welcome) ===== -->
+    <section id="screen-welcome" class="screen active">
+      <div class="welcome-content">
+        <h1 class="welcome-title">What are you in the mood for?</h1>
+        <p class="welcome-subtitle">Pick one or more genres to start discovering novels.</p>
+        <div class="genre-grid" id="genre-grid">
+          <!-- Genres injected by JS -->
+        </div>
+        <button class="btn-primary btn-start" id="btn-start" disabled>
+          <span>Start Swiping</span>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- ===== SCREEN: SWIPE CARDS ===== -->
+    <section id="screen-swipe" class="screen">
+      <div class="swipe-area" id="swipe-area">
+        <!-- Cards injected by JS -->
+        <div class="empty-state" id="empty-state" style="display:none;">
+          <div class="empty-icon">
+            <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+          </div>
+          <h2>You've seen them all!</h2>
+          <p>No more novels in this selection. Check your shortlist or pick new genres.</p>
+          <div class="empty-actions">
+            <button class="btn-secondary" id="btn-new-genres">Pick New Genres</button>
+            <button class="btn-primary" id="btn-view-shortlist-empty">View Shortlist</button>
+          </div>
+        </div>
+      </div>
+      <div class="swipe-controls" id="swipe-controls">
+        <button class="control-btn skip" id="btn-skip" title="Skip novel (Left Arrow / A)" aria-label="Skip novel (Left Arrow or A)">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+        <button class="control-btn undo" id="btn-undo" title="Undo last action (Z)" aria-label="Undo last action (Z)" disabled>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
+        </button>
+        <button class="control-btn shortlist" id="btn-shortlist" title="Shortlist novel (Right Arrow / D)" aria-label="Shortlist novel (Right Arrow or D)">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        </button>
+      </div>
+      <div class="swipe-hint" id="swipe-hint">
+        <span>← Swipe left or [A] to skip</span>
+        <span>Swipe right or [D] to shortlist →</span>
+      </div>
+    </section>
+
+    <!-- ===== SCREEN: SHORTLIST ===== -->
+    <section id="screen-shortlist" class="screen">
+      <div class="shortlist-header">
+        <button class="btn-back" id="btn-back-swipe">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+          Back
+        </button>
+        <h2 class="shortlist-title">Your Shortlist</h2>
+        <button class="btn-clear" id="btn-clear-shortlist">Clear All</button>
+      </div>
+      <div class="shortlist-body" id="shortlist-body">
+        <div class="shortlist-empty" id="shortlist-empty">
+          <div class="empty-icon">
+            <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+          </div>
+          <h3>Nothing here yet</h3>
+          <p>Start swiping to add novels to your shortlist!</p>
+        </div>
+        <div class="shortlist-grid" id="shortlist-grid">
+          <!-- Shortlisted novels injected by JS -->
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- ===== TOAST ===== -->
+  <div id="toast" class="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
