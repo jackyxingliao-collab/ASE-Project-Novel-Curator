@@ -1,0 +1,3394 @@
+{
+  "data": {
+    "Page": {
+      "media": [
+        {
+          "id": 94970,
+          "siteUrl": "https://anilist.co/manga/94970",
+          "title": {
+            "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+            "english": "Classroom of the Elite"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Slice of Life",
+            "Thriller"
+          ],
+          "tags": [
+            {
+              "name": "School",
+              "rank": 97
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 95
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 92
+            },
+            {
+              "name": "Anti-Hero",
+              "rank": 90
+            },
+            {
+              "name": "Battle Royale",
+              "rank": 88
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 88
+            },
+            {
+              "name": "Politics",
+              "rank": 86
+            },
+            {
+              "name": "Revenge",
+              "rank": 83
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 81
+            },
+            {
+              "name": "Fugitive",
+              "rank": 80
+            },
+            {
+              "name": "Survival",
+              "rank": 80
+            },
+            {
+              "name": "Denpa",
+              "rank": 80
+            },
+            {
+              "name": "Philosophy",
+              "rank": 79
+            },
+            {
+              "name": "Blackmail",
+              "rank": 79
+            },
+            {
+              "name": "Coming of Age",
+              "rank": 77
+            },
+            {
+              "name": "Boarding School",
+              "rank": 76
+            },
+            {
+              "name": "Classic Literature",
+              "rank": 75
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 74
+            },
+            {
+              "name": "School Club",
+              "rank": 73
+            },
+            {
+              "name": "Tragedy",
+              "rank": 73
+            },
+            {
+              "name": "Bullying",
+              "rank": 72
+            },
+            {
+              "name": "Disability",
+              "rank": 68
+            },
+            {
+              "name": "Martial Arts",
+              "rank": 65
+            },
+            {
+              "name": "Rehabilitation",
+              "rank": 65
+            },
+            {
+              "name": "Board Game",
+              "rank": 64
+            },
+            {
+              "name": "Tsundere",
+              "rank": 63
+            },
+            {
+              "name": "Athletics",
+              "rank": 62
+            },
+            {
+              "name": "Torture",
+              "rank": 62
+            },
+            {
+              "name": "Kuudere",
+              "rank": 62
+            },
+            {
+              "name": "Delinquents",
+              "rank": 60
+            },
+            {
+              "name": "Female Harem",
+              "rank": 60
+            },
+            {
+              "name": "Love Triangle",
+              "rank": 57
+            },
+            {
+              "name": "Suicide",
+              "rank": 57
+            },
+            {
+              "name": "Yandere",
+              "rank": 52
+            },
+            {
+              "name": "Teacher",
+              "rank": 36
+            }
+          ],
+          "description": "Students of the prestigious Tokyo Metropolitan Advanced Nurturing High School are given remarkable freedom—if they can win, barter, or save enough points to work their way up the ranks! Ayanokoji Kiyotaka has landed at the bottom in the scorned Class D, where he meets Horikita Suzune, who’s determined to rise up the ladder to Class A. Can they beat the system in a school where cutthroat competition is the name of the game?\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<b>Includes Volumes:</b> 4.5, 7.5, 11.5<br>\n<b>Included Chapters:</b> 14 Prologues, 13 Epilogues, 1 Extra",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Shunsaku Tomose"
+                  }
+                }
+              },
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Shougo Kinugasa"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 85470,
+          "siteUrl": "https://anilist.co/manga/85470",
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Coming of Age",
+              "rank": 94
+            },
+            {
+              "name": "Isekai",
+              "rank": 93
+            },
+            {
+              "name": "Magic",
+              "rank": 92
+            },
+            {
+              "name": "Rehabilitation",
+              "rank": 92
+            },
+            {
+              "name": "Reincarnation",
+              "rank": 90
+            },
+            {
+              "name": "Polyamorous",
+              "rank": 88
+            },
+            {
+              "name": "Travel",
+              "rank": 85
+            },
+            {
+              "name": "Family Life",
+              "rank": 82
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 81
+            },
+            {
+              "name": "Tragedy",
+              "rank": 78
+            },
+            {
+              "name": "Survival",
+              "rank": 74
+            },
+            {
+              "name": "Female Harem",
+              "rank": 73
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 70
+            },
+            {
+              "name": "Time Manipulation",
+              "rank": 70
+            },
+            {
+              "name": "Gods",
+              "rank": 68
+            },
+            {
+              "name": "Time Skip",
+              "rank": 67
+            },
+            {
+              "name": "Meta",
+              "rank": 65
+            },
+            {
+              "name": "Hikikomori",
+              "rank": 63
+            },
+            {
+              "name": "Demons",
+              "rank": 61
+            },
+            {
+              "name": "Matriarchy",
+              "rank": 60
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 60
+            },
+            {
+              "name": "Swordplay",
+              "rank": 57
+            },
+            {
+              "name": "Tsundere",
+              "rank": 54
+            },
+            {
+              "name": "Tomboy",
+              "rank": 53
+            },
+            {
+              "name": "Crossdressing",
+              "rank": 52
+            },
+            {
+              "name": "Teacher",
+              "rank": 50
+            },
+            {
+              "name": "Elf",
+              "rank": 50
+            },
+            {
+              "name": "Slavery",
+              "rank": 47
+            },
+            {
+              "name": "Language Barrier",
+              "rank": 46
+            },
+            {
+              "name": "School",
+              "rank": 46
+            },
+            {
+              "name": "Maids",
+              "rank": 40
+            },
+            {
+              "name": "Dragons",
+              "rank": 40
+            },
+            {
+              "name": "Nekomimi",
+              "rank": 40
+            },
+            {
+              "name": "Amnesia",
+              "rank": 40
+            },
+            {
+              "name": "Dungeon",
+              "rank": 40
+            },
+            {
+              "name": "Otaku Culture",
+              "rank": 40
+            },
+            {
+              "name": "Religion",
+              "rank": 40
+            },
+            {
+              "name": "Revenge",
+              "rank": 40
+            },
+            {
+              "name": "Marriage",
+              "rank": 40
+            },
+            {
+              "name": "Ojou-sama",
+              "rank": 30
+            },
+            {
+              "name": "Archery",
+              "rank": 20
+            },
+            {
+              "name": "Desert",
+              "rank": 20
+            }
+          ],
+          "description": "Kicked out by his family and wandering the streets, an unemployed 34-year-old shut-in thinks he’s hit rock-bottom—just as he’s hit and killed by a speeding truck! Awakening to find himself reborn as an infant in a world of swords and sorcery, but with the memories of his first life intact, Rudeus Greyrat is determined not to repeat his past mistakes. He’s going to make the most of this reincarnation as he sets off on the adventure of a second lifetime!\n<br><br>\n(Source: Seven Seas Entertainment)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story ",
+                "node": {
+                  "name": {
+                    "full": "Rifujin na Magonote"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Sirotaka"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 98361,
+          "siteUrl": "https://anilist.co/manga/98361",
+          "title": {
+            "romaji": "Mikkakan no Koufuku",
+            "english": "Three Days of Happiness"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Philosophy",
+              "rank": 96
+            },
+            {
+              "name": "Tragedy",
+              "rank": 95
+            },
+            {
+              "name": "Urban Fantasy",
+              "rank": 88
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "rank": 80
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 80
+            },
+            {
+              "name": "Urban",
+              "rank": 80
+            },
+            {
+              "name": "Seinen",
+              "rank": 77
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 73
+            },
+            {
+              "name": "Hikikomori",
+              "rank": 73
+            },
+            {
+              "name": "Writing",
+              "rank": 71
+            },
+            {
+              "name": "Suicide",
+              "rank": 60
+            },
+            {
+              "name": "Photography",
+              "rank": 56
+            },
+            {
+              "name": "Drawing",
+              "rank": 48
+            },
+            {
+              "name": "College",
+              "rank": 46
+            },
+            {
+              "name": "Mopeds",
+              "rank": 46
+            },
+            {
+              "name": "Autobiographical",
+              "rank": 28
+            },
+            {
+              "name": "Amnesia",
+              "rank": 10
+            }
+          ],
+          "description": "HOW MUCH IS LIFE TRULY WORTH?<br>\nKusunoki used to believe he was destined for great things. Ostracized as a child, he held on to a belief that a good life was waiting for him in the years ahead. Now approaching the age of twenty, he's a completely mediocre college student with no motivation, no dreams, and no money. After learning he can sell his remaining years-and just how little they're worth-he chooses to divest himself of all but his last three months. Has Kusunoki truly destroyed his last chance to find happiness...or has he somehow found it?<br>\n<br>(Source: Yen Press)\n",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Sugaru Miaki"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "E9L"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 85737,
+          "siteUrl": "https://anilist.co/manga/85737",
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
+          "tags": [
+            {
+              "name": "Seinen",
+              "rank": 100
+            },
+            {
+              "name": "Time Loop",
+              "rank": 98
+            },
+            {
+              "name": "Time Manipulation",
+              "rank": 95
+            },
+            {
+              "name": "Tragedy",
+              "rank": 92
+            },
+            {
+              "name": "Witch",
+              "rank": 85
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 85
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 85
+            },
+            {
+              "name": "Isekai",
+              "rank": 82
+            },
+            {
+              "name": "Cosmic Horror",
+              "rank": 82
+            },
+            {
+              "name": "Politics",
+              "rank": 80
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 80
+            },
+            {
+              "name": "Gore",
+              "rank": 79
+            },
+            {
+              "name": "Disability",
+              "rank": 79
+            },
+            {
+              "name": "Astronomy",
+              "rank": 78
+            },
+            {
+              "name": "Memory Manipulation",
+              "rank": 78
+            },
+            {
+              "name": "Cult",
+              "rank": 78
+            },
+            {
+              "name": "Magic",
+              "rank": 77
+            },
+            {
+              "name": "Body Horror",
+              "rank": 76
+            },
+            {
+              "name": "Elf",
+              "rank": 73
+            },
+            {
+              "name": "Suicide",
+              "rank": 73
+            },
+            {
+              "name": "Curses",
+              "rank": 72
+            },
+            {
+              "name": "Amnesia",
+              "rank": 70
+            },
+            {
+              "name": "Reincarnation",
+              "rank": 70
+            },
+            {
+              "name": "Alternate Universe",
+              "rank": 69
+            },
+            {
+              "name": "Female Protagonist",
+              "rank": 62
+            },
+            {
+              "name": "Twins",
+              "rank": 60
+            },
+            {
+              "name": "Dissociative Identities",
+              "rank": 60
+            },
+            {
+              "name": "Unrequited Love",
+              "rank": 60
+            },
+            {
+              "name": "Maids",
+              "rank": 57
+            },
+            {
+              "name": "Hikikomori",
+              "rank": 55
+            },
+            {
+              "name": "Assassins",
+              "rank": 54
+            },
+            {
+              "name": "Time Skip",
+              "rank": 53
+            },
+            {
+              "name": "Love Triangle",
+              "rank": 51
+            },
+            {
+              "name": "Dragons",
+              "rank": 50
+            },
+            {
+              "name": "Age Regression",
+              "rank": 50
+            },
+            {
+              "name": "Yandere",
+              "rank": 48
+            },
+            {
+              "name": "Kemonomimi",
+              "rank": 48
+            },
+            {
+              "name": "Crossdressing",
+              "rank": 48
+            },
+            {
+              "name": "Femboy",
+              "rank": 45
+            },
+            {
+              "name": "Medieval",
+              "rank": 40
+            },
+            {
+              "name": "Shapeshifting",
+              "rank": 33
+            },
+            {
+              "name": "Zombie",
+              "rank": 30
+            },
+            {
+              "name": "Necromancy",
+              "rank": 20
+            },
+            {
+              "name": "Werewolf",
+              "rank": 20
+            },
+            {
+              "name": "Creature Taming",
+              "rank": 20
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 20
+            },
+            {
+              "name": "Fugitive",
+              "rank": 20
+            },
+            {
+              "name": "Clone",
+              "rank": 20
+            }
+          ],
+          "description": "Subaru Natsuki was just trying to get to the convenience store but wound up summoned to another world. He encounters the usual things--life-threatening situations, silver haired beauties, cat fairies--you know, normal stuff. All that would be bad enough, but he's also gained the most inconvenient magical ability of all--time travel, but he's got to die to use it. How do you repay someone who saved your life when all you can do is die?<br>\n<br>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story ",
+                "node": {
+                  "name": {
+                    "full": "Tappei Nagatsuki"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Shinichirou Ootsuka"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 85134,
+          "siteUrl": "https://anilist.co/manga/85134",
+          "title": {
+            "romaji": "Utsuro no Hako to Zero no Maria",
+            "english": "The Empty Box and Zeroth Maria"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Action",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural",
+            "Thriller"
+          ],
+          "tags": [
+            {
+              "name": "Anti-Hero",
+              "rank": 100
+            },
+            {
+              "name": "Tragedy",
+              "rank": 95
+            },
+            {
+              "name": "Philosophy",
+              "rank": 86
+            },
+            {
+              "name": "Time Loop",
+              "rank": 86
+            },
+            {
+              "name": "Urban Fantasy",
+              "rank": 85
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 81
+            },
+            {
+              "name": "Dissociative Identities",
+              "rank": 80
+            },
+            {
+              "name": "Coming of Age",
+              "rank": 79
+            },
+            {
+              "name": "Achronological Order",
+              "rank": 77
+            },
+            {
+              "name": "Bullying",
+              "rank": 76
+            },
+            {
+              "name": "School",
+              "rank": 75
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 75
+            },
+            {
+              "name": "Battle Royale",
+              "rank": 73
+            },
+            {
+              "name": "Yandere",
+              "rank": 73
+            },
+            {
+              "name": "Time Manipulation",
+              "rank": 72
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 71
+            },
+            {
+              "name": "Amnesia",
+              "rank": 70
+            },
+            {
+              "name": "Marriage",
+              "rank": 70
+            },
+            {
+              "name": "Memory Manipulation",
+              "rank": 68
+            },
+            {
+              "name": "Death Game",
+              "rank": 63
+            },
+            {
+              "name": "Tsundere",
+              "rank": 60
+            },
+            {
+              "name": "Gore",
+              "rank": 55
+            },
+            {
+              "name": "Body Swapping",
+              "rank": 54
+            },
+            {
+              "name": "Shapeshifting",
+              "rank": 48
+            },
+            {
+              "name": "Yuri",
+              "rank": 20
+            }
+          ],
+          "description": "Kazuki Hoshino treasures nothing more than his ordinary life, and March 2 should have been an ordinary day. The arrival of a transfer student, the mysterious Aya Otonashi, shouldn't have shattered the world he knows. He's never seen this girl before in his life, but she says she's met him thousands of times--and declares war on him for a crime he can't even remember... As the truth begins to unravel, nothing is as it seems, and at the heart of it all is a wish powerful enough to change everything...<br><br>(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Eiji Mikage"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Tetsuo"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 98610,
+          "siteUrl": "https://anilist.co/manga/98610",
+          "title": {
+            "romaji": "86: Eighty Six",
+            "english": "86―EIGHTY-SIX"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "War",
+              "rank": 93
+            },
+            {
+              "name": "Dystopian",
+              "rank": 92
+            },
+            {
+              "name": "Military",
+              "rank": 92
+            },
+            {
+              "name": "Class Struggle",
+              "rank": 92
+            },
+            {
+              "name": "Tragedy",
+              "rank": 90
+            },
+            {
+              "name": "Robots",
+              "rank": 90
+            },
+            {
+              "name": "Seinen",
+              "rank": 90
+            },
+            {
+              "name": "Survival",
+              "rank": 86
+            },
+            {
+              "name": "Philosophy",
+              "rank": 84
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 82
+            },
+            {
+              "name": "Politics",
+              "rank": 81
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 79
+            },
+            {
+              "name": "Guns",
+              "rank": 79
+            },
+            {
+              "name": "Artificial Intelligence",
+              "rank": 76
+            },
+            {
+              "name": "Female Protagonist",
+              "rank": 75
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 75
+            },
+            {
+              "name": "Ships",
+              "rank": 73
+            },
+            {
+              "name": "Super Power",
+              "rank": 72
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 71
+            },
+            {
+              "name": "Ghost",
+              "rank": 70
+            },
+            {
+              "name": "Time Skip",
+              "rank": 55
+            },
+            {
+              "name": "Alternate Universe",
+              "rank": 51
+            },
+            {
+              "name": "Yuri",
+              "rank": 10
+            }
+          ],
+          "description": "A War Without Casualties:\n<br><br>\nThe Republic of San Magnolia has long been under attack from the neighboring Giadian Empire's army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties-or at least, that's what the government claims.<br><br>\nIn truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the \"nonexistent\" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the \"unmanned\" weapons into battle...\n<br><br>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Shirabi"
+                  }
+                }
+              },
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Asato Asato"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 70171,
+          "siteUrl": "https://anilist.co/manga/70171",
+          "title": {
+            "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+            "english": "My Youth Romantic Comedy Is Wrong, As I Expected"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "tags": [
+            {
+              "name": "School Club",
+              "rank": 95
+            },
+            {
+              "name": "School",
+              "rank": 93
+            },
+            {
+              "name": "Philosophy",
+              "rank": 83
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 82
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 80
+            },
+            {
+              "name": "Satire",
+              "rank": 79
+            },
+            {
+              "name": "Rehabilitation",
+              "rank": 79
+            },
+            {
+              "name": "Coming of Age",
+              "rank": 79
+            },
+            {
+              "name": "Love Triangle",
+              "rank": 73
+            },
+            {
+              "name": "Seinen",
+              "rank": 66
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 60
+            },
+            {
+              "name": "Meta",
+              "rank": 48
+            },
+            {
+              "name": "Female Harem",
+              "rank": 45
+            },
+            {
+              "name": "Boys' Love",
+              "rank": 20
+            },
+            {
+              "name": "Mixed Gender Harem",
+              "rank": 20
+            }
+          ],
+          "description": "Hikigaya Hachiman is a high school boy with twisted character. He prefers to go against the trend and refuses to make friends with anybody. In order to get Hachiman back the right track, his school teacher Hiratsuka Shizuka forces him to enter 'Public Service Club'. There he meets other problematic students.<br><br>\n<i>Includes volumes 6.5, 7.5, 10.5, and 14.5.</i>",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Wataru Watari"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Ponkan 8"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 44893,
+          "siteUrl": "https://anilist.co/manga/44893",
+          "title": {
+            "romaji": "Bakemonogatari",
+            "english": "Bakemonogatari: Monster Tale"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Action",
+            "Mystery",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Urban Fantasy",
+              "rank": 93
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 90
+            },
+            {
+              "name": "Philosophy",
+              "rank": 90
+            },
+            {
+              "name": "Vampire",
+              "rank": 82
+            },
+            {
+              "name": "Gods",
+              "rank": 77
+            },
+            {
+              "name": "Meta",
+              "rank": 76
+            },
+            {
+              "name": "Achronological Order",
+              "rank": 74
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 72
+            },
+            {
+              "name": "Coming of Age",
+              "rank": 70
+            },
+            {
+              "name": "Ghost",
+              "rank": 70
+            },
+            {
+              "name": "Primarily Female Cast",
+              "rank": 62
+            },
+            {
+              "name": "Dissociative Identities",
+              "rank": 51
+            },
+            {
+              "name": "Denpa",
+              "rank": 50
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 46
+            },
+            {
+              "name": "School",
+              "rank": 40
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 40
+            },
+            {
+              "name": "Tomboy",
+              "rank": 40
+            },
+            {
+              "name": "Nekomimi",
+              "rank": 34
+            },
+            {
+              "name": "Shounen",
+              "rank": 30
+            }
+          ],
+          "description": "The first part of the Monogatari Series.\n<br><br>\nThere’s a girl at their school who is always ill. She routinely arrives late, leaves early, or doesn’t show up at all, and skips gym as a matter of course. She’s pretty, and the boys take to whispering that she’s a cloistered princess. As the self-described worst loser in her class soon finds out, they just don’t know what a monster she is. So begins a tale of mysterious maladies that are supernatural in origin yet deeply revealing of the human psyche, a set of case files as given to unexpected feeling as it is to irreverent humour.\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: The English release and the JP ebook edition have Bakemonogatari split across three volumes, instead of the original two volumes.</i>",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "NISIOISIN"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "VOFAN"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 39115,
+          "siteUrl": "https://anilist.co/manga/39115",
+          "title": {
+            "romaji": "Ookami to Koushinryou",
+            "english": "Spice & Wolf"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Economics",
+              "rank": 98
+            },
+            {
+              "name": "Kemonomimi",
+              "rank": 91
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 83
+            },
+            {
+              "name": "Travel",
+              "rank": 83
+            },
+            {
+              "name": "Rural",
+              "rank": 81
+            },
+            {
+              "name": "Seinen",
+              "rank": 80
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Foreign",
+              "rank": 77
+            },
+            {
+              "name": "Gods",
+              "rank": 73
+            },
+            {
+              "name": "Politics",
+              "rank": 71
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "rank": 66
+            },
+            {
+              "name": "Age Gap",
+              "rank": 53
+            },
+            {
+              "name": "Slavery",
+              "rank": 46
+            },
+            {
+              "name": "War",
+              "rank": 40
+            }
+          ],
+          "description": "The life of a traveling merchant is a lonely one, a fact with which Kraft Lawrence is well acquainted. Wandering from town to town with just his horse, cart, and whatever wares have come his way, the peddler has pretty well settled into his routine&mdash;that is, until the night Lawrence finds a wolf goddess asleep in his cart. Taking the form of a fetching girl with wolf ears and a tail, Holo has wearied of tending to harvests in the countryside and strikes up a bargain with the merchant to lend him the cunning of &ldquo;Holo the Wisewolf&rdquo; to increase his profits in exchange for taking her along on his travels. What kind of businessman could turn down such an offer? Lawrence soon learns, though, that having an ancient goddess as a traveling companion can be a bit of a mixed blessing. Will this wolf girl turn out to be too wild to tame?<br><br>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Isuna Hasekura"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Juu Ayakura"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 86355,
+          "siteUrl": "https://anilist.co/manga/86355",
+          "title": {
+            "romaji": "Tensei Shitara Slime Datta Ken",
+            "english": "That Time I Got Reincarnated as a Slime"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "rank": 97
+            },
+            {
+              "name": "Reincarnation",
+              "rank": 91
+            },
+            {
+              "name": "Magic",
+              "rank": 87
+            },
+            {
+              "name": "Kingdom Management",
+              "rank": 85
+            },
+            {
+              "name": "Politics",
+              "rank": 83
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Demons",
+              "rank": 76
+            },
+            {
+              "name": "War",
+              "rank": 76
+            },
+            {
+              "name": "Super Power",
+              "rank": 75
+            },
+            {
+              "name": "Monster Girl",
+              "rank": 68
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "rank": 68
+            },
+            {
+              "name": "Time Manipulation",
+              "rank": 66
+            },
+            {
+              "name": "Alternate Universe",
+              "rank": 66
+            },
+            {
+              "name": "Goblin",
+              "rank": 65
+            },
+            {
+              "name": "Dragons",
+              "rank": 63
+            },
+            {
+              "name": "Time Skip",
+              "rank": 56
+            },
+            {
+              "name": "Agender",
+              "rank": 46
+            },
+            {
+              "name": "Shounen",
+              "rank": 46
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 40
+            },
+            {
+              "name": "Henshin",
+              "rank": 35
+            },
+            {
+              "name": "Yuri",
+              "rank": 10
+            }
+          ],
+          "description": "Living alone and never having had a girlfriend, 37-year-old Satoru Mikami is dissatisfied with how his life has turned out. But after dying at the hands of a robber, he awakens to a fresh start in a new world...as a slime monster.<br>\n<br>\n(Source: Yen Press)\n<br><br><i>Note: Includes 61 extra chapters.</i>",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Fuse"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Mitz Vah"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 86238,
+          "siteUrl": "https://anilist.co/manga/86238",
+          "title": {
+            "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "english": "Konosuba: God's Blessing on This Wonderful World!"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Ensemble Cast",
+              "rank": 100
+            },
+            {
+              "name": "Isekai",
+              "rank": 97
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 95
+            },
+            {
+              "name": "Magic",
+              "rank": 95
+            },
+            {
+              "name": "Reincarnation",
+              "rank": 90
+            },
+            {
+              "name": "Parody",
+              "rank": 89
+            },
+            {
+              "name": "Satire",
+              "rank": 80
+            },
+            {
+              "name": "Slapstick",
+              "rank": 79
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Chuunibyou",
+              "rank": 77
+            },
+            {
+              "name": "Gods",
+              "rank": 73
+            },
+            {
+              "name": "Alternate Universe",
+              "rank": 72
+            },
+            {
+              "name": "Demons",
+              "rank": 70
+            },
+            {
+              "name": "Work",
+              "rank": 68
+            },
+            {
+              "name": "Afterlife",
+              "rank": 64
+            },
+            {
+              "name": "Shounen",
+              "rank": 56
+            },
+            {
+              "name": "Female Harem",
+              "rank": 55
+            },
+            {
+              "name": "Swordplay",
+              "rank": 49
+            },
+            {
+              "name": "Bar",
+              "rank": 40
+            },
+            {
+              "name": "Travel",
+              "rank": 33
+            }
+          ],
+          "description": "Game loving shut-in Kazuma Sato's life as a young schoolboy in Japan abruptly comes to an early end...or at least it was supposed to. When he opens his eyes, though, he sees a beautiful goddess that offers him a once in an after-lifetime chance to be reborn in a parallel world. The catch is that the world is violent and threatened by a growing evil! Fortunately, he can choose any one thing to bring with him. So he chooses the goddess, Aqua! And so his adventure with his gorgeous companion begins--if he could just get enough money and food to survive, keep his goddess out of trouble, and avoid grabbing the attention of the Demon King's army!\n<br><br>(Source: Yen Press)\n<br><br><i>Note: Includes 42 extra chapters.</i>",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Kurone Mishima"
+                  }
+                }
+              },
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Natsume Akatsuki"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 85976,
+          "siteUrl": "https://anilist.co/manga/85976",
+          "title": {
+            "romaji": "Overlord",
+            "english": "Overlord"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Horror",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Anti-Hero",
+              "rank": 90
+            },
+            {
+              "name": "Skeleton",
+              "rank": 90
+            },
+            {
+              "name": "Magic",
+              "rank": 89
+            },
+            {
+              "name": "Isekai",
+              "rank": 88
+            },
+            {
+              "name": "Demons",
+              "rank": 80
+            },
+            {
+              "name": "Video Games",
+              "rank": 79
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Angels",
+              "rank": 79
+            },
+            {
+              "name": "Swordplay",
+              "rank": 79
+            },
+            {
+              "name": "Yandere",
+              "rank": 79
+            },
+            {
+              "name": "Politics",
+              "rank": 78
+            },
+            {
+              "name": "Cosmic Horror",
+              "rank": 77
+            },
+            {
+              "name": "Necromancy",
+              "rank": 75
+            },
+            {
+              "name": "Female Harem",
+              "rank": 75
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 73
+            },
+            {
+              "name": "War",
+              "rank": 71
+            },
+            {
+              "name": "Elf",
+              "rank": 70
+            },
+            {
+              "name": "Butler",
+              "rank": 70
+            },
+            {
+              "name": "Virtual World",
+              "rank": 67
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 66
+            },
+            {
+              "name": "Succubus",
+              "rank": 64
+            },
+            {
+              "name": "Maids",
+              "rank": 60
+            },
+            {
+              "name": "Monster Girl",
+              "rank": 60
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 60
+            },
+            {
+              "name": "Gore",
+              "rank": 60
+            },
+            {
+              "name": "Vampire",
+              "rank": 55
+            },
+            {
+              "name": "Kuudere",
+              "rank": 53
+            },
+            {
+              "name": "Torture",
+              "rank": 53
+            },
+            {
+              "name": "Archery",
+              "rank": 53
+            },
+            {
+              "name": "Goblin",
+              "rank": 53
+            },
+            {
+              "name": "Alchemy",
+              "rank": 50
+            },
+            {
+              "name": "Crossdressing",
+              "rank": 50
+            },
+            {
+              "name": "Femboy",
+              "rank": 50
+            },
+            {
+              "name": "Twins",
+              "rank": 48
+            },
+            {
+              "name": "Zombie",
+              "rank": 45
+            },
+            {
+              "name": "Werewolf",
+              "rank": 40
+            },
+            {
+              "name": "Dragons",
+              "rank": 40
+            },
+            {
+              "name": "Artificial Intelligence",
+              "rank": 40
+            },
+            {
+              "name": "Memory Manipulation",
+              "rank": 40
+            },
+            {
+              "name": "Aromantic",
+              "rank": 40
+            },
+            {
+              "name": "Dungeon",
+              "rank": 40
+            }
+          ],
+          "description": "For twelve years, the virtual world of Yggdrasil has served as the playground and battlefield for the skeletal lord Momonga and his guild of fellow monsters, Ainz Ooal Gown. But the guild's glory days are over, and the game is shutting down permanently. When Momonga logs in one last time just to be there when the servers go dark, something happens--and suddenly, fantasy is reality. A rogues' gallery of fanatically devoted NPCs is ready to obey his every order, but the world Momonga now inhabits is not the one he remembers. The game may be over, but the epic tale of Ainz Ooal Gown is only beginning...<br><br>(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Kugane Maruyama"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "so-bin"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 78399,
+          "siteUrl": "https://anilist.co/manga/78399",
+          "title": {
+            "romaji": "No Game No Life",
+            "english": null
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Gambling",
+              "rank": 100
+            },
+            {
+              "name": "Isekai",
+              "rank": 98
+            },
+            {
+              "name": "Kemonomimi",
+              "rank": 90
+            },
+            {
+              "name": "Video Games",
+              "rank": 85
+            },
+            {
+              "name": "Hikikomori",
+              "rank": 85
+            },
+            {
+              "name": "Gods",
+              "rank": 81
+            },
+            {
+              "name": "Magic",
+              "rank": 81
+            },
+            {
+              "name": "Meta",
+              "rank": 79
+            },
+            {
+              "name": "Class Struggle",
+              "rank": 79
+            },
+            {
+              "name": "Kingdom Management",
+              "rank": 79
+            },
+            {
+              "name": "Kuudere",
+              "rank": 74
+            },
+            {
+              "name": "Politics",
+              "rank": 73
+            },
+            {
+              "name": "Female Harem",
+              "rank": 70
+            },
+            {
+              "name": "Female Protagonist",
+              "rank": 70
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 64
+            },
+            {
+              "name": "Nekomimi",
+              "rank": 62
+            },
+            {
+              "name": "Elf",
+              "rank": 61
+            },
+            {
+              "name": "Super Power",
+              "rank": 60
+            },
+            {
+              "name": "Mermaid",
+              "rank": 60
+            },
+            {
+              "name": "Travel",
+              "rank": 60
+            },
+            {
+              "name": "War",
+              "rank": 60
+            },
+            {
+              "name": "Reincarnation",
+              "rank": 56
+            },
+            {
+              "name": "Vampire",
+              "rank": 56
+            },
+            {
+              "name": "Virtual World",
+              "rank": 53
+            },
+            {
+              "name": "Maids",
+              "rank": 53
+            },
+            {
+              "name": "Artificial Intelligence",
+              "rank": 52
+            },
+            {
+              "name": "School",
+              "rank": 46
+            },
+            {
+              "name": "Crossdressing",
+              "rank": 45
+            },
+            {
+              "name": "Software Development",
+              "rank": 40
+            },
+            {
+              "name": "Age Regression",
+              "rank": 36
+            },
+            {
+              "name": "Idol",
+              "rank": 36
+            }
+          ],
+          "description": "In this fantasy world, everything's a game--and these gamer siblings play to win! Meet Sora and Shiro, a brother and sister who are loser shut-ins by normal standards. But these siblings don't play by the rules of the \"crappy game\" that is average society. In the world of gaming, this genius pair reigns supreme, their invincible avatar so famous that it's the stuff of urban legend. So when a young boy calling himself God summons the siblings to a fantastic alternate world where war is forbidden and all conflicts--even those involving national borders--are decided by the outcome of games, Sora and Shiro have pretty much hit the jackpot. But they soon learn that in this world, humanity, cornered and outnumbered by other species, survives within the confines of one city. Will Sora and Shiro, two failures at life, turn out to be the saviors of mankind? Let the games begin...!\n<BR><BR>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story & Illustration",
+                "node": {
+                  "name": {
+                    "full": "Yuu Kamiya"
+                  }
+                }
+              },
+              {
+                "role": "Translator (English: vols. 1-10)",
+                "node": {
+                  "name": {
+                    "full": "Daniel Komen"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 115166,
+          "siteUrl": "https://anilist.co/manga/115166",
+          "title": {
+            "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
+            "english": "Classroom of the Elite: Year 2"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Thriller"
+          ],
+          "tags": [
+            {
+              "name": "School",
+              "rank": 97
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 96
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 96
+            },
+            {
+              "name": "Anti-Hero",
+              "rank": 95
+            },
+            {
+              "name": "Boarding School",
+              "rank": 95
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 91
+            },
+            {
+              "name": "Philosophy",
+              "rank": 90
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 90
+            },
+            {
+              "name": "Coming of Age",
+              "rank": 88
+            },
+            {
+              "name": "Battle Royale",
+              "rank": 88
+            },
+            {
+              "name": "Survival",
+              "rank": 88
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 88
+            },
+            {
+              "name": "Politics",
+              "rank": 88
+            },
+            {
+              "name": "Fugitive",
+              "rank": 86
+            },
+            {
+              "name": "Bullying",
+              "rank": 84
+            },
+            {
+              "name": "Revenge",
+              "rank": 84
+            },
+            {
+              "name": "Classic Literature",
+              "rank": 84
+            },
+            {
+              "name": "Card Battle",
+              "rank": 84
+            },
+            {
+              "name": "Delinquents",
+              "rank": 82
+            },
+            {
+              "name": "Dissociative Identities",
+              "rank": 80
+            },
+            {
+              "name": "Orphan",
+              "rank": 79
+            },
+            {
+              "name": "Seinen",
+              "rank": 79
+            },
+            {
+              "name": "Blackmail",
+              "rank": 79
+            },
+            {
+              "name": "Torture",
+              "rank": 77
+            },
+            {
+              "name": "Martial Arts",
+              "rank": 77
+            },
+            {
+              "name": "Disability",
+              "rank": 77
+            },
+            {
+              "name": "School Club",
+              "rank": 75
+            },
+            {
+              "name": "Athletics",
+              "rank": 73
+            },
+            {
+              "name": "Love Triangle",
+              "rank": 73
+            },
+            {
+              "name": "Tragedy",
+              "rank": 73
+            },
+            {
+              "name": "Tsundere",
+              "rank": 72
+            },
+            {
+              "name": "Calligraphy",
+              "rank": 71
+            },
+            {
+              "name": "Kuudere",
+              "rank": 70
+            },
+            {
+              "name": "Suicide",
+              "rank": 69
+            },
+            {
+              "name": "Female Harem",
+              "rank": 68
+            },
+            {
+              "name": "Yandere",
+              "rank": 68
+            },
+            {
+              "name": "Maids",
+              "rank": 55
+            }
+          ],
+          "description": "Students of the prestigious Tokyo Metropolitan Advanced Nurturing High School are given remarkable freedom–if they can win, barter, or save enough points to work their way up the ranks! Ayanokouji Kiyotaka started at the bottom in the scorned Class D, where he met Horikita Suzune, who was determined to rise up the ladder to Class A. Who can beat the system in a school where cutthroat competition is the name of the game? The second year of this intense school drama begins now!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<b>Includes Volumes:</b> 4.5, 9.5, 12.5<br>\n<b>Included Chapters:</b> 15 Prologues and 15 Epilogues.",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Shunsaku Tomose"
+                  }
+                }
+              },
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Shougo Kinugasa"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 51479,
+          "siteUrl": "https://anilist.co/manga/51479",
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Virtual World",
+              "rank": 96
+            },
+            {
+              "name": "Tragedy",
+              "rank": 88
+            },
+            {
+              "name": "Death Game",
+              "rank": 84
+            },
+            {
+              "name": "Swordplay",
+              "rank": 80
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Artificial Intelligence",
+              "rank": 73
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 72
+            },
+            {
+              "name": "Isekai",
+              "rank": 69
+            },
+            {
+              "name": "Software Development",
+              "rank": 60
+            },
+            {
+              "name": "Tentacles",
+              "rank": 48
+            },
+            {
+              "name": "War",
+              "rank": 48
+            },
+            {
+              "name": "Female Harem",
+              "rank": 44
+            },
+            {
+              "name": "Rape",
+              "rank": 41
+            },
+            {
+              "name": "Magic",
+              "rank": 30
+            },
+            {
+              "name": "Fairy",
+              "rank": 30
+            },
+            {
+              "name": "Time Skip",
+              "rank": 20
+            },
+            {
+              "name": "Female Protagonist",
+              "rank": 20
+            }
+          ],
+          "description": "In the year 2022, gamers rejoice as Sword Art Online - a VRMMORPG (Virtual Reality Massively Multiplayer Online Role Playing Game) like no other - debuts, allowing players to take full advantage of the ultimate in gaming technology: NerveGear, a system that allows users to completely immerse themselves in a wholly realistic gaming experience. But when the game goes live, the elation of the players quickly turns to horror as they discover that, for all its amazing features, SAO is missing one of the most basic functions of any MMORPG - a log-out button. Now trapped in the virtual world of Aincrad, their bodies held captive by NerveGear in the real world, users are issued a chilling ultimatum: conquer all one hundred floors of Aincrad to regain your freedom. But in the warped world of SAO, \"game over\" means certain death - both virtual and real...\n<BR><BR>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Reki Kawahara"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "BUNBUN"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99026,
+          "siteUrl": "https://anilist.co/manga/99026",
+          "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Drama",
+            "Mystery"
+          ],
+          "tags": [
+            {
+              "name": "Female Protagonist",
+              "rank": 100
+            },
+            {
+              "name": "Medicine",
+              "rank": 93
+            },
+            {
+              "name": "Detective",
+              "rank": 93
+            },
+            {
+              "name": "Royal Affairs",
+              "rank": 92
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 92
+            },
+            {
+              "name": "Politics",
+              "rank": 87
+            },
+            {
+              "name": "Historical",
+              "rank": 85
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "rank": 82
+            },
+            {
+              "name": "Maids",
+              "rank": 77
+            },
+            {
+              "name": "Drugs",
+              "rank": 76
+            },
+            {
+              "name": "Work",
+              "rank": 76
+            },
+            {
+              "name": "Foreign",
+              "rank": 75
+            },
+            {
+              "name": "Primarily Female Cast",
+              "rank": 72
+            },
+            {
+              "name": "Adoption",
+              "rank": 71
+            },
+            {
+              "name": "Heterosexual",
+              "rank": 69
+            },
+            {
+              "name": "Episodic",
+              "rank": 68
+            },
+            {
+              "name": "Agriculture",
+              "rank": 68
+            },
+            {
+              "name": "Ancient China",
+              "rank": 67
+            },
+            {
+              "name": "Seinen",
+              "rank": 66
+            },
+            {
+              "name": "Crossdressing",
+              "rank": 64
+            },
+            {
+              "name": "Religion",
+              "rank": 60
+            },
+            {
+              "name": "Economics",
+              "rank": 60
+            },
+            {
+              "name": "Go",
+              "rank": 60
+            },
+            {
+              "name": "Tragedy",
+              "rank": 56
+            },
+            {
+              "name": "LGBTQ+ Themes",
+              "rank": 55
+            },
+            {
+              "name": "Pregnancy",
+              "rank": 55
+            },
+            {
+              "name": "Natural Disaster",
+              "rank": 53
+            },
+            {
+              "name": "Shogi",
+              "rank": 50
+            },
+            {
+              "name": "Meta",
+              "rank": 46
+            },
+            {
+              "name": "Asexual",
+              "rank": 40
+            },
+            {
+              "name": "Rape",
+              "rank": 33
+            },
+            {
+              "name": "Suicide",
+              "rank": 30
+            },
+            {
+              "name": "Age Gap",
+              "rank": 10
+            }
+          ],
+          "description": "In the East is a land ruled by an emperor, whose consorts and serving women live in a sprawling complex known as the hougong, the rear palace. Maomao, an unassuming girl raised in an unassuming town by her apothecary father, never imagined the rear palace would have anything to do with her—until she was kidnapped and sold into service there.<br>\nThough she looks ordinary, Maomao has a quick wit, a sharp mind, and an extensive knowledge of medicine. That's her secret, until she encounters a resident of the palace at least as perceptive as she is: the head eunuch, Jinshi. He sees through Maomao's façade and makes her a lady-in-waiting to none other than the Emperor's favorite consort... so she can taste the lady's food for poison!\n<br><br>\n(Source: J-Novel Club)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Natsu Hyuuga"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Touko Shino"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 39726,
+          "siteUrl": "https://anilist.co/manga/39726",
+          "title": {
+            "romaji": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+            "english": "Decapitation: Kubikiri Cycle"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological"
+          ],
+          "tags": [
+            {
+              "name": "Philosophy",
+              "rank": 93
+            },
+            {
+              "name": "Coming of Age",
+              "rank": 92
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 88
+            },
+            {
+              "name": "Detective",
+              "rank": 87
+            },
+            {
+              "name": "Meta",
+              "rank": 81
+            },
+            {
+              "name": "Primarily Female Cast",
+              "rank": 80
+            },
+            {
+              "name": "Tragedy",
+              "rank": 76
+            },
+            {
+              "name": "Primarily Adult Cast",
+              "rank": 76
+            },
+            {
+              "name": "Crime",
+              "rank": 75
+            },
+            {
+              "name": "Hikikomori",
+              "rank": 46
+            },
+            {
+              "name": "Crossdressing",
+              "rank": 37
+            },
+            {
+              "name": "Maids",
+              "rank": 34
+            },
+            {
+              "name": "Gore",
+              "rank": 20
+            }
+          ],
+          "description": "A dropout from an elite Houston-based program for teens is on a visit to a private island. Its mistress, virtually marooned there, surrounds herself with geniuses, especially of the young and female kind—one of whom ends up headless one fine morning.\n<br><br>\n(Source: Kodansha USA)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "NISIOISIN"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Take"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 91170,
+          "siteUrl": "https://anilist.co/manga/91170",
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Primarily Female Cast",
+              "rank": 92
+            },
+            {
+              "name": "Urban Fantasy",
+              "rank": 92
+            },
+            {
+              "name": "Coming of Age",
+              "rank": 90
+            },
+            {
+              "name": "School",
+              "rank": 83
+            },
+            {
+              "name": "Time Manipulation",
+              "rank": 80
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 66
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 65
+            },
+            {
+              "name": "Amnesia",
+              "rank": 64
+            },
+            {
+              "name": "Hikikomori",
+              "rank": 55
+            },
+            {
+              "name": "Bullying",
+              "rank": 53
+            },
+            {
+              "name": "Idol",
+              "rank": 53
+            }
+          ],
+          "description": "<i>Book 1 of the Seishun Buta Yarou series.</i>\n<br><br>\nOut of sight, out of mind! Bunny girls do not live in libraries. This is simply common sense. And yet, that's exactly where Sakuta finds one in the wild. More bewildering is who the bunny girl is: Mai Sakurajima, a girl one year older than Sakuta, famous at their school for her acting career even though she's currently on break. To top it all off, it seems like no one else in the library can see Mai at all, no matter what she does or...wears. Wanting to find out more about this mystery and maybe get a little closer to this beautiful upperclassman in the process, Sakuta launches an investigation to discover why an unforgettable bunny girl keeps becoming totally invisible.\n<br><br>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Hajime Kamoshida"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Keiji Mizoguchi"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 85743,
+          "siteUrl": "https://anilist.co/manga/85743",
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Isekai",
+              "rank": 90
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 84
+            },
+            {
+              "name": "Kemonomimi",
+              "rank": 80
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Seinen",
+              "rank": 72
+            },
+            {
+              "name": "Revenge",
+              "rank": 72
+            },
+            {
+              "name": "Anti-Hero",
+              "rank": 68
+            },
+            {
+              "name": "Slavery",
+              "rank": 66
+            },
+            {
+              "name": "Gods",
+              "rank": 60
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 60
+            },
+            {
+              "name": "Alternate Universe",
+              "rank": 60
+            },
+            {
+              "name": "Assassins",
+              "rank": 60
+            },
+            {
+              "name": "Magic",
+              "rank": 58
+            },
+            {
+              "name": "Bullying",
+              "rank": 55
+            },
+            {
+              "name": "Demons",
+              "rank": 37
+            }
+          ],
+          "description": "Naofumi Iwatani, an uncharismatic Otaku who spends his days on games and manga, suddenly finds himself summoned to a parallel universe! He discovers he is one of four heroes equipped with legendary weapons and tasked with saving the world from its prophesied destruction. As the Shield Hero, the weakest of the heroes, all is not as it seems. Naofumi is soon alone, penniless, and betrayed. With no one to turn to, and nowhere to run, he is left with only his shield. Now, Naofumi must rise to become the legendary Shield Hero and save the world!<br><br>\n\n(Source: One Peace Books)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Aneko Yusagi"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Seira Minami"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 86406,
+          "siteUrl": "https://anilist.co/manga/86406",
+          "title": {
+            "romaji": "Kumo desu ga, Nani ka?",
+            "english": "So I'm a Spider, So What?"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Monster Girl",
+              "rank": 94
+            },
+            {
+              "name": "Magic",
+              "rank": 94
+            },
+            {
+              "name": "Isekai",
+              "rank": 91
+            },
+            {
+              "name": "Reincarnation",
+              "rank": 89
+            },
+            {
+              "name": "Gods",
+              "rank": 86
+            },
+            {
+              "name": "Female Protagonist",
+              "rank": 84
+            },
+            {
+              "name": "Achronological Order",
+              "rank": 81
+            },
+            {
+              "name": "Anti-Hero",
+              "rank": 81
+            },
+            {
+              "name": "Robots",
+              "rank": 79
+            },
+            {
+              "name": "Post-Apocalyptic",
+              "rank": 78
+            },
+            {
+              "name": "War",
+              "rank": 77
+            },
+            {
+              "name": "Lost Civilization",
+              "rank": 71
+            },
+            {
+              "name": "Dungeon",
+              "rank": 70
+            },
+            {
+              "name": "Demons",
+              "rank": 67
+            },
+            {
+              "name": "Found Family",
+              "rank": 66
+            },
+            {
+              "name": "Elf",
+              "rank": 65
+            },
+            {
+              "name": "Dragons",
+              "rank": 62
+            },
+            {
+              "name": "Yandere",
+              "rank": 60
+            },
+            {
+              "name": "Dissociative Identities",
+              "rank": 55
+            },
+            {
+              "name": "Vampire",
+              "rank": 54
+            },
+            {
+              "name": "Environmental",
+              "rank": 50
+            },
+            {
+              "name": "Chimera",
+              "rank": 40
+            },
+            {
+              "name": "Angels",
+              "rank": 40
+            },
+            {
+              "name": "Yuri",
+              "rank": 33
+            },
+            {
+              "name": "Gender Bending",
+              "rank": 26
+            },
+            {
+              "name": "Monster Boy",
+              "rank": 20
+            },
+            {
+              "name": "Anthropomorphism",
+              "rank": 20
+            },
+            {
+              "name": "Medieval",
+              "rank": 20
+            }
+          ],
+          "description": "I used to be a normal high school girl but in the blink of an eye, I woke up in a place I've never seen before and-and I was reborn as a spider?! How could something that's nothing more than a tiny spider (that's me) possibly survive in literally the worst dungeon ever? Are there no rules? There should be some rules! Who the hell is responsible for this? SHOW YOUR FACE!<br><br>(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Okina Baba"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Tsukasa Kiryuu"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 42854,
+          "siteUrl": "https://anilist.co/manga/42854",
+          "title": {
+            "romaji": "Toaru Majutsu no Index",
+            "english": "A Certain Magical Index"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "tags": [
+            {
+              "name": "Magic",
+              "rank": 98
+            },
+            {
+              "name": "Amnesia",
+              "rank": 85
+            },
+            {
+              "name": "Super Power",
+              "rank": 85
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 84
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 82
+            },
+            {
+              "name": "War",
+              "rank": 82
+            },
+            {
+              "name": "Urban Fantasy",
+              "rank": 80
+            },
+            {
+              "name": "Ensemble Cast",
+              "rank": 80
+            },
+            {
+              "name": "Urban",
+              "rank": 79
+            },
+            {
+              "name": "Otaku Culture",
+              "rank": 79
+            },
+            {
+              "name": "School",
+              "rank": 79
+            },
+            {
+              "name": "Anti-Hero",
+              "rank": 77
+            },
+            {
+              "name": "Religion",
+              "rank": 73
+            },
+            {
+              "name": "Foreign",
+              "rank": 70
+            },
+            {
+              "name": "Clone",
+              "rank": 70
+            },
+            {
+              "name": "Battle Royale",
+              "rank": 70
+            },
+            {
+              "name": "Nun",
+              "rank": 65
+            },
+            {
+              "name": "Drugs",
+              "rank": 60
+            },
+            {
+              "name": "Gods",
+              "rank": 60
+            }
+          ],
+          "description": "Set in a city of not only scientifically advanced superhuman students, but in a world where magic is also real. Kamijyo Touma's right hand, the Imagine Breaker, will negate all magic, psychic, or divine powers, as well as his own luck. One day he finds a young girl hanging on his balcony railing. She turns out to be a nun from the Church of England, and her mind has been implanted with the Index Librorum Prohibitorum&mdash;all the magical texts the Church has removed from circulation.<br><br>\n(Source: Wikipedia)<br><br>\n<i>Note: Includes 16 prologues, 18 epilogues, and 6 extras.</i>",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Kazuma Kamachi"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Kiyotaka Haimura"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 108428,
+          "siteUrl": "https://anilist.co/manga/108428",
+          "title": {
+            "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+            "english": "The Eminence in Shadow"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "tags": [
+            {
+              "name": "Cult",
+              "rank": 98
+            },
+            {
+              "name": "Chuunibyou",
+              "rank": 97
+            },
+            {
+              "name": "Swordplay",
+              "rank": 94
+            },
+            {
+              "name": "Anti-Hero",
+              "rank": 92
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 90
+            },
+            {
+              "name": "Magic",
+              "rank": 89
+            },
+            {
+              "name": "Isekai",
+              "rank": 81
+            },
+            {
+              "name": "Elf",
+              "rank": 80
+            },
+            {
+              "name": "Acting",
+              "rank": 80
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Parody",
+              "rank": 75
+            },
+            {
+              "name": "Reincarnation",
+              "rank": 71
+            },
+            {
+              "name": "Kemonomimi",
+              "rank": 69
+            },
+            {
+              "name": "School",
+              "rank": 66
+            },
+            {
+              "name": "Martial Arts",
+              "rank": 62
+            },
+            {
+              "name": "Female Harem",
+              "rank": 61
+            },
+            {
+              "name": "Vampire",
+              "rank": 60
+            },
+            {
+              "name": "Assassins",
+              "rank": 60
+            },
+            {
+              "name": "Satire",
+              "rank": 60
+            },
+            {
+              "name": "Demons",
+              "rank": 56
+            },
+            {
+              "name": "Shounen",
+              "rank": 55
+            },
+            {
+              "name": "Economics",
+              "rank": 40
+            },
+            {
+              "name": "Zombie",
+              "rank": 26
+            },
+            {
+              "name": "Meta",
+              "rank": 20
+            }
+          ],
+          "description": "One big fat lie and a few twisted truths.\n<br><br>\nEven in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!\n<br><br>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Touzai"
+                  }
+                }
+              },
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Daisuke Aizawa"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 55409,
+          "siteUrl": "https://anilist.co/manga/55409",
+          "title": {
+            "romaji": "High School DxD",
+            "english": "High School DxD"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "Super Power",
+              "rank": 96
+            },
+            {
+              "name": "Demons",
+              "rank": 92
+            },
+            {
+              "name": "Female Harem",
+              "rank": 91
+            },
+            {
+              "name": "Nudity",
+              "rank": 90
+            },
+            {
+              "name": "Dragons",
+              "rank": 79
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 79
+            },
+            {
+              "name": "Gods",
+              "rank": 79
+            },
+            {
+              "name": "Urban Fantasy",
+              "rank": 79
+            },
+            {
+              "name": "Polyamorous",
+              "rank": 79
+            },
+            {
+              "name": "Found Family",
+              "rank": 79
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 75
+            },
+            {
+              "name": "School",
+              "rank": 74
+            },
+            {
+              "name": "Angels",
+              "rank": 53
+            },
+            {
+              "name": "Kuudere",
+              "rank": 50
+            },
+            {
+              "name": "Henshin",
+              "rank": 40
+            },
+            {
+              "name": "Crossdressing",
+              "rank": 30
+            },
+            {
+              "name": "Nun",
+              "rank": 30
+            },
+            {
+              "name": "Nekomimi",
+              "rank": 20
+            }
+          ],
+          "description": "I’m going to make this school my harem!<br>\n<br>\nWhen a cute girl asks Issei out, he believes his twisted fantasies are finally coming true. Too bad the girl sprouts a pair of black wings and stabs him with a spear on their first date! Saved by his school’s number one beauty, Rias Gremory, Issei is transformed into a demon and made her servant. Issei hopes to rise through the ranks of demonkind to grow powerful enough to create his harem, but in a city with fallen angels and insane priests, he’ll be lucky if he can live long enough to do it!<br>\n<br>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Ichiei Ishibumi"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Miyama-Zero"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 33083,
+          "siteUrl": "https://anilist.co/manga/33083",
+          "title": {
+            "romaji": "Suzumiya Haruhi no Yuuutsu",
+            "english": "The Melancholy of Haruhi Suzumiya"
+          },
+          "status": "FINISHED",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Sci-Fi",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "tags": [
+            {
+              "name": "School Club",
+              "rank": 95
+            },
+            {
+              "name": "Philosophy",
+              "rank": 95
+            },
+            {
+              "name": "School",
+              "rank": 94
+            },
+            {
+              "name": "Urban Fantasy",
+              "rank": 93
+            },
+            {
+              "name": "Tsundere",
+              "rank": 79
+            },
+            {
+              "name": "Aliens",
+              "rank": 76
+            },
+            {
+              "name": "Gods",
+              "rank": 76
+            },
+            {
+              "name": "Parody",
+              "rank": 75
+            },
+            {
+              "name": "Achronological Order",
+              "rank": 70
+            },
+            {
+              "name": "Time Manipulation",
+              "rank": 68
+            },
+            {
+              "name": "Alternate Universe",
+              "rank": 60
+            },
+            {
+              "name": "Kuudere",
+              "rank": 60
+            },
+            {
+              "name": "Primarily Teen Cast",
+              "rank": 60
+            },
+            {
+              "name": "Surreal Comedy",
+              "rank": 60
+            },
+            {
+              "name": "Female Protagonist",
+              "rank": 60
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 60
+            },
+            {
+              "name": "Chuunibyou",
+              "rank": 56
+            },
+            {
+              "name": "Conspiracy",
+              "rank": 50
+            },
+            {
+              "name": "Memory Manipulation",
+              "rank": 46
+            },
+            {
+              "name": "Maids",
+              "rank": 45
+            },
+            {
+              "name": "Otaku Culture",
+              "rank": 40
+            }
+          ],
+          "description": "Kyon, your typical high school student, has long given up his belief in the supernatural. However, upon meeting Haruhi Suzumiya, he quickly finds out that it is the supernatural that she is interested in; aliens, time travelers and espers among other things. When Haruhi laments about the lack of intriguing clubs around school, Kyon inspires Haruhi to form her own club. As a result, the SOS Brigade is formed, a club which specializes in all that is the supernatural.<br><br>\nMuch to his chagrin, Kyon, along with the silent bookworm, Yuki Nagato, the shy and timid Mikuru Asahina, and the perpetually smiling Itsuki Koizumi, are recruited as members. The story follows the crazy adventures that these four endure under their whimsical leader, Haruhi.\n<br><br>\n<i>Note: Includes a prologue and epilogue.</i>",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Nagaru Tanigawa"
+                  }
+                }
+              },
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Noizi Itou"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 85162,
+          "siteUrl": "https://anilist.co/manga/85162",
+          "title": {
+            "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+          },
+          "status": "RELEASING",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "tags": [
+            {
+              "name": "Dungeon",
+              "rank": 91
+            },
+            {
+              "name": "Gods",
+              "rank": 82
+            },
+            {
+              "name": "Medieval",
+              "rank": 79
+            },
+            {
+              "name": "Magic",
+              "rank": 77
+            },
+            {
+              "name": "Swordplay",
+              "rank": 76
+            },
+            {
+              "name": "Female Harem",
+              "rank": 74
+            },
+            {
+              "name": "Kemonomimi",
+              "rank": 70
+            },
+            {
+              "name": "Nekomimi",
+              "rank": 65
+            },
+            {
+              "name": "Monster Girl",
+              "rank": 64
+            },
+            {
+              "name": "Male Protagonist",
+              "rank": 64
+            },
+            {
+              "name": "Mythology",
+              "rank": 60
+            },
+            {
+              "name": "Primarily Female Cast",
+              "rank": 60
+            },
+            {
+              "name": "Shounen",
+              "rank": 48
+            }
+          ],
+          "description": "In Orario, fearless adventurers band together in search of fame and fortune within the monstrous underground labyrinth known as Dungeon.\n<br><br>\nBut while riches and renown are incentive enough for most, Bell Cranel, would-be hero extraordinaire, has bigger plans.\n<br><br>\nHe wants to pick up girls.\n<br><br>\nIs it wrong to face the perils of Dungeon alone, in a single-member guild blessed by a failed goddess? Maybe. Is it wrong to dream of playing hero to hapless maidens in Dungeon? Maybe not. After one misguided adventure, Bell quickly discovers that anything can happen in the labyrinth--even chance encounters with beautiful women. The only problem? He's the one who winds up the damsel in distress!\n<br><br>\n(Source: Yen Press)",
+          "countryOfOrigin": "JP",
+          "staff": {
+            "edges": [
+              {
+                "role": "Illustration",
+                "node": {
+                  "name": {
+                    "full": "Suzuhito Yasuda"
+                  }
+                }
+              },
+              {
+                "role": "Story",
+                "node": {
+                  "name": {
+                    "full": "Fujino Oomori"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
